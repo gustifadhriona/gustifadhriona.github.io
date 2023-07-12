@@ -23,8 +23,8 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  name              : G
+  image             : https://static.wikia.nocookie.net/onepunchman/images/b/bf/Armored_Gorilla.png/revision/latest?cb=20191119185853
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
@@ -87,11 +87,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
+  #- scope:                                               For Documentation Only
+  #    path: ""                                           For Documentation Only
+  #    type: "elements"                                   For Documentation Only
+  #  values:                                              For Documentation Only
+  #    layout: "element"                                  For Documentation Only
   - scope:
       path: ""
       type: "posts"
