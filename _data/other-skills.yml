@@ -5,3 +5,7 @@
 - name: MySQL/SQLite
   percentage: 70
   color: success
+
+- name: Gitlab CI/CD
+  percentage: 50
+  color: 

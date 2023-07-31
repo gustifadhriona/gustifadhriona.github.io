@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi I am **{{ site.author.name }}** ,<br>
+COMPUTER SCIENCE/INFOMATICS GRADUATE SEEKING A JOB IN A POSITION WITH A CHANCE TO UTILISE KNOWLEDGE AND SKILL DEVELOPED THROUGH COLLEGE AND PAST WORK EXPERIENCES. MOTIVATED AND DISCIPLINE, ALSO HAVE A STRONG SENSE OF RESPONSIBILITY TO DO MY JOB PERFECTLY.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
