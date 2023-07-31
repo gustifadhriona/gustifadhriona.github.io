@@ -1,22 +1,22 @@
-- title: Junior Full Stack Web Developer, DINAS KOMUNIKASI DAN INFORMATIKA, BATAM
-  from: 2023
-  to: Present
-  description: Develop Web Application using Laravel with PHP as Backend and Blade with JQuery for Frontend.
-               Using CSS,Bootstrap and Tailwind also using MySQL and SQLite for Database.
+- title: Student, UNIVERSITAS MARITIM RAJA ALI HAJI
+  from: 2014
+  to: 2020
+  description: Bachelor's Degree in Computer Science/Information Technology.
 
-- title: Network/System/Database Admin, THE SANCHAYA, BINTAN
+- title: GIS Engineer, BADAN PUSAT STATISTIK, BINTAN REGENCY
+  from: 2019
+  to: 2020
+  description: Make Geojson Map of Bintan Regency using QGis and ArcGIS.
+
+- title: IT Technician, THE SANCHAYA, BINTAN
   from: 2022
   to: 2022
   description: As IT Technician at Famous Luxury Resort 'The Sanchaya' in Bintan. Works included 
                Computer Hardware Troubleshooting, Network Troubleshooting, Software Troubleshooting,
                LAN/WAN, Mikrotik, Domain Controller and VLAN.
 
-- title: Gis Engineer, BADAN PUSAT STATISTIK, BINTAN REGENCY
-  from: 2019
-  to: 2020
-  description: Make Geojson Map of Bintan Regency using QGis and ArcGIS.
-
-- title: Student, UNIVERSITAS MARITIM RAJA ALI HAJI
-  from: 2014
-  to: 2020
-  description: Bachelor's Degree in Computer Science/Information Technology.
+- title: Full Stack Web Developer, DINAS KOMUNIKASI DAN INFORMATIKA, BATAM
+  from: 2023
+  to: Present
+  description: Develop Web Application using Laravel with PHP as Backend and Blade with JQuery for Frontend.
+               Using CSS,Bootstrap and Tailwind also using MySQL and SQLite for Database.
