@@ -9,3 +9,11 @@
 - name: PHP/Laravel/Livewire
   percentage: 80
   color: secondary
+
+- name: C
+  percentage: 50
+  color: danger
+
+- name: Java
+  percentage: 50
+  color: 

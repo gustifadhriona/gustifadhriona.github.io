@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+name: Aplikasi Pendataan
+tools: [Laravel, JQuery, MySQL]
+image: Screenshot_8.jpg
+description: Beberapa Aplikasi pendataan Single Page Application, form menggunakan modal dan ajax, datatable dan menghasilkan laporan berupa word dokumen menggunakan phpoffice/phpword.
 external_url: https://lawlight88.github.io/
 ---
