@@ -1,7 +1,12 @@
 ---
 name: Aplikasi Pendataan
 tools: [Laravel, JQuery, MySQL]
-image: assets/Screenshot_8.jpg
+image: https://www.digitaljessies.com/wp-content/uploads/edd/2022/10/source-aplikasi-alumni-oop.png
 description: Beberapa Aplikasi pendataan Single Page Application, form menggunakan modal dan ajax, datatable dan menghasilkan laporan berupa word dokumen menggunakan phpoffice/phpword.
-external_url: https://lawlight88.github.io/
 ---
+
+# Aplikasi Pendataan
+
+Beberapa Aplikasi pendataan Single Page Application, form menggunakan modal dan ajax, datatable dan menghasilkan laporan berupa word dokumen menggunakan phpoffice/phpword.
+
+![preview](https://www.kioscode.com/dah_image/media/1879568525_Sistem_Informasi_Pendataan_Penduduk_Berbasis_Web_Dengan_PHP.png)
