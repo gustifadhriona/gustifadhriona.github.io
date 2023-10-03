@@ -1,7 +1,7 @@
 ---
 name: Aplikasi Pendataan
 tools: [Laravel, JQuery, MySQL]
-image: https://www.digitaljessies.com/wp-content/uploads/edd/2022/10/source-aplikasi-alumni-oop.png
+image: assets/Screenshot_8.jpg
 description: Beberapa Aplikasi pendataan Single Page Application, form menggunakan modal dan ajax, datatable dan menghasilkan laporan berupa word dokumen menggunakan phpoffice/phpword.
 ---
 
