@@ -1,12 +1,4 @@
-- name: Javascript/JQuery
-  percentage: 70
-  color: danger
-
-- name: Bootstrap/Tailwind
-  percentage: 80
-  color:
-
-- name: PHP/Laravel/Livewire
+- name: PHP
   percentage: 80
   color: secondary
 
@@ -17,3 +9,12 @@
 - name: Java
   percentage: 50
   color: 
+
+- name: Javascript
+  percentage: 70
+  color: danger
+
+- name: MySQL/SQLite
+  percentage: 70
+  color: success
+

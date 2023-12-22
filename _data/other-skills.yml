@@ -1,11 +1,19 @@
+- name: Laravel
+  percentage: 80
+  color: danger
+
+- name: React.Js
+  percentage: 60
+  color: 
+
+- name: Bootstrap/Tailwind
+  percentage: 80
+  color:
+
+- name: JQuery
+  percentage: 80
+  color: 
+
 - name: Qgis/ArcGIS
   percentage: 75
   color: info
-
-- name: MySQL/SQLite
-  percentage: 70
-  color: success
-
-- name: Gitlab CI/CD
-  percentage: 50
-  color: 
